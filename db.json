@@ -1,0 +1,58 @@
+{
+    "openhouses": [ 
+        { "id": 1, 
+          "title": "Floorfy-Visitas Virtuales", 
+          "name": "Floorfy", 
+          "location":"Barcelona",
+          "date":"2023-02-28T15:30:00Z",
+          "avatar":"global/icons/social/floorfy_avatar.svg",
+          "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+        },
+        { "id": 2, 
+        "title": "JPA Barcelona", 
+        "name": "Floorfy", 
+        "location":"Barcelona",
+        "date":"2023-02-28T15:30:00Z",
+        "avatar":"global/icons/social/floorfy_avatar.svg",
+        "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+      },
+      { "id": 3, 
+        "title": "Piso en Barcelona", 
+        "name": "Floorfy", 
+        "location":"Barcelona",
+        "date":"2022-02-28T15:30:00Z",
+        "avatar":"global/icons/social/floorfy_avatar.svg",
+        "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+        },
+        { "id": 4, 
+          "title": "Presentación Idealista", 
+          "name": "Floorfy", 
+          "location":"Barcelona",
+          "date":"2022-02-28T15:30:00Z",
+          "avatar":"global/icons/social/floorfy_avatar.svg",
+          "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+        },
+        { "id": 5, 
+          "title": "Openhouse collblanc", 
+          "name": "Floorfy", 
+          "location":"Barcelona",
+          "date":"2023-02-20T12:30:00Z",
+          "avatar":"global/icons/social/floorfy_avatar.svg",
+          "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+        },
+        { "id": 6,
+          "name": "Floorfy", 
+          "title": "Casa en Sant Lluis", 
+          "location":"Barcelona",
+          "date":"2023-03-21T10:30:00Z",
+          "avatar":"global/icons/social/floorfy_avatar.svg",
+          "iframe":"https://www.youtube.com/embed/tgbNymZ7vqY"
+        }
+    ],
+    "generalData": [ 
+        { "totalOpenhouses": 465, 
+          "lastMonthOpenhouses": 68, 
+          "currentMonthOpenhouses":21
+        }   
+    ]
+}
